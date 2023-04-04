@@ -12,6 +12,7 @@ inputs:
     required: false
   working_directory:
     description: 'Gem directory'
+    default: '.'
     required: false
 outputs:
   tag:
